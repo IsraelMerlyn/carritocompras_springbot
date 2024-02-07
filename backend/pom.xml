@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.israelmerlyn</groupId>
-	<artifactId>backend-carrito-compras</artifactId>
+	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>carrito-compras</name>
 	<description>Demo project for Spring Boot</description>
